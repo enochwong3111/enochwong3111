@@ -46,6 +46,19 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enochwong3111)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>  
+
+---
+
+### 🎮 Have fun:
+<a href="https://enochwong3111.github.io/snake_game_html/">Greedy Worm</a>
+<br/>A snake game written in CSS, JS and HTML5.
+<br/>
+
+<a href="https://enochwong3111.github.io/tetris_html/">Tetris</a>
+<br/>A tetris game written in CSS, JS and HTML5.
+<br/>
 <!--
 **enochwong3111/enochwong3111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

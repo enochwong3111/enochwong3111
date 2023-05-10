@@ -53,6 +53,10 @@
 <br/>A tetris game written in CSS, JS and HTML5.
 <br/>
 
+<a href="https://enochwong3111.github.io/Rubiks-Cube-ThreeJs/">Rubik's cube</a>
+<br/>A Rubik's cube written in JS and HTML5 using ThreeJs.
+<br/>
+
 ---
 
 ### :fire: My Stats :

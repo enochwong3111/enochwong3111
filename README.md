@@ -11,7 +11,7 @@
 ### <div align="center">I'm Enoch, a web developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Ukulele🎶  
+- 🌱 I’m currently learning AWS, Vue.js and Ukulele🎶  
   
 
 - ⚡ Fun fact: I start my programming journey with my calculator  

@@ -57,6 +57,10 @@
 <br/>A Rubik's cube written in JS and HTML5 using ThreeJs.
 <br/>
 
+<a href="https://enochwong3111.github.io/Vue_Breakout_Game/play/">Breakout</a>
+<br/>A brick-map configurable breakout game written in Vue.js, Sass.
+<br/>
+
 ---
 
 ### :fire: My Stats :
